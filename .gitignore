@@ -1,0 +1,6 @@
+Builds/VisualStudio2022/x64
+Builds/VisualStudio2022/.vs
+TestAudio/
+.cache/
+*.raddbg_profile
+*.raddbg_user
